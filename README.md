@@ -54,6 +54,6 @@ python3 bot.py
 
 # Testing
 
-Bot ini dapat menerima beberapa perintah antara yaitu:
-1. /checkin - untuk melakukan absensi masuk user
-2. /checkout - untuk melakukan absensi keluar user
+Bot ini dapat menerima beberapa perintah:
+1. ```/checkin``` - untuk melakukan absensi masuk user
+2. ```/checkout``` - untuk melakukan absensi keluar user
