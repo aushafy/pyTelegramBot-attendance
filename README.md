@@ -37,6 +37,12 @@ API Token ini bisa Anda dapatkan dari BotFather
 
 2. Konfig user.json file
 
+```
+{
+    "username": ["USERNAME_ANDA"] 
+}
+```
+
 user.json file digunakan untuk menyimpan informasi username dari user yang diperbolehkan melakukan absensi, buka file user.json dan lakukan perubahan sesuai dengan username dari user yang akan menggunakan Attendance Bot.
 
 # Jalankan Bot
