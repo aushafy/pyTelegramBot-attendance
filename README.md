@@ -16,6 +16,7 @@ Setelah semua prasyarat terpenuhi, selanjutnya Anda dapat men-download library p
 
 ```
 sudo pip3 install pyTelegramBotAPI
+sudo pip3 install geopy
 ```
 
 Terakhir, lakukan kloning repository github
